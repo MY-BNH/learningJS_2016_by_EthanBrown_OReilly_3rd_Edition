@@ -1,6 +1,14 @@
 a test for sure
 nothing is here
 <br>
-24234
-<i stye="color: blue;">programming</i><br>
-<mark>js & php</mark>
+
+= Learning JavaScript, 3rd Edition
+== Chapter 2: JavaScript Development Tools
+<br>
+
+<pre>
+In this chapter we're learning about Git and other
+development tools.
+</pre>
+
+
